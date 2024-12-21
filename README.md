@@ -10,7 +10,6 @@ Music connects us to the past. Imagine revisiting the songs playing the year you
 * 🕰️ Time Travel Made Simple: Fetch the Billboard Hot 100 chart for any specific date.<br>
 * 🎤 Curated Playlists on the Fly: Search and add chart-toppers to your Spotify with ease.<br>
 * 🔒 Private Playlists: Keep your nostalgic jams personal or share them with friends.<br>
-* 🌐 Web Scraping Awesomeness: Combines modern web technologies for seamless data extraction.<br>
 
 ## 🛠️ Technologies Used
 * Python 3.x.<br>
